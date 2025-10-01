@@ -1,0 +1,3 @@
+/* principles of elegant, semantic css */
+body {padding:1rem; background:white;max-width: 800px; margin:0 auto;}
+h1 {font-size:2.4rem;font-weight:normal;color: black;}
